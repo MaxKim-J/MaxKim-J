@@ -1,4 +1,7 @@
-### Hi there 👋
+### 😎 Passionate Javascript Engineer
+
+- [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
+- [Tech Blog](https://maxkim-j.github.io/)
 
 <!--
 **MaxKim-J/MaxKim-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
