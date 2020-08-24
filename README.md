@@ -5,7 +5,7 @@
 - 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)
 
-### Learning Repository
+### What I'm learning in
 
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
 - 🧮 [Algorithm](https://github.com/MaxKim-J/Algo)
