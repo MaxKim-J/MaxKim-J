@@ -1,7 +1,13 @@
-### 😎 Passionate Javascript Engineer
+### 😎 About Me
 
 - 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)
+
+### Learning Repository
+
+- 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
+- 🧮 [Algorithm](https://github.com/MaxKim-J/Algo)
+- 🏃🏻 [Max Kim Tutorial](https://github.com/max-kim-tutorial)
 
 <!--
 **MaxKim-J/MaxKim-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
