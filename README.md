@@ -1,9 +1,5 @@
 <h2 align="center">😎 Passionate Javascript Engineer</h2>
 
-<div align="center">
-![employed](https://img.shields.io/badge/currently-employed-orange)
-</div>
-
 <table>
 <tr>
 <td width="800px">
