@@ -1,13 +1,13 @@
 ## 😎 Passionate Javascript Engineer
 <table>
 <tr>
-<td>
+<td width="800px">
 <h3>About Max</h3>
 
 - 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)                    
 </td>
-<td>
+<td width="800px">
 <h3>What I'm learning</h3>
 
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
