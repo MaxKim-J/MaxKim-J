@@ -1,11 +1,15 @@
 ## 😎 Passionate Javascript Engineer
+
+![employed](https://img.shields.io/badge/currently-employed-orange)
+
 <table>
 <tr>
 <td width="800px">
 <h3>About Max</h3>
 
-- 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
-- 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)                    
+- 👔 [RESUME](https://github.com/MaxKim-J/RESUME)
+- 👨🏻‍🔧 [Tech Blog](https://maxkim-j.github.io/)    
+- 🚀 [RocketPunch Profile](https://www.rocketpunch.com/@hwaseen)
 </td>
 <td width="800px">
 <h3>What I'm learning</h3>
