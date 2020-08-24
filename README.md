@@ -1,13 +1,13 @@
 ## 😎 Passionate Javascript Engineer
 <table>
 <tr>
-<td valign="top" width="50%>
+<td width="50%">
 ### About Max
 
 - 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)                    
 </td>
-<td valign="top" width="50%>
+<td width="50%">
 ### What I'm learning
 
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
