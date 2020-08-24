@@ -9,6 +9,7 @@
 </td>
 <td>
 <h3>What I'm learning</h3>
+
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
 - 🧮 [Algorithm](https://github.com/MaxKim-J/Algo)
 - 🏃🏻 [Max Kim Tutorial](https://github.com/max-kim-tutorial)
