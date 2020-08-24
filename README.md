@@ -1,4 +1,4 @@
-<h2 align="center">😎 Passionate Javascript Engineer</h2>
+## 😎 Passionate Javascript Engineer
 
 <table>
 <tr>
