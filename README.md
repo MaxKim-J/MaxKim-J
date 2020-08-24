@@ -1,11 +1,11 @@
 ## 😎 Passionate Javascript Engineer
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 ### About Max
 
 - 👔 [RESUME(Currently Employed)](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog:맥스킴 개발블로그](https://maxkim-j.github.io/)
 
-### What I'm learning in
+### What I'm learning
 
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
 - 🧮 [Algorithm](https://github.com/MaxKim-J/Algo)
