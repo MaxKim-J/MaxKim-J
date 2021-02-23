@@ -14,6 +14,7 @@
 </td>
 <td width="800px">
     <div align="center">
+        <br/>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
     </div>
 </td>
