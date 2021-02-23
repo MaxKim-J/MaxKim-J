@@ -2,16 +2,14 @@
 
 <table>
 <tr>
-<td width="800px">
-<br/>
-    
+<td width="800px" height="250px">
+   
 - 👔 [RESUME](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog](https://maxkim-j.github.io/)    
 - 🚀 [RocketPunch Profile](https://www.rocketpunch.com/@hwaseen)
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
 - 🏃🏻 [Max Kim Tutorial](https://github.com/max-kim-tutorial)
-
-<br/>
+- 🏗 [Architecture](https://github.com/Arch)
 
 </td>
 <td width="800px">
