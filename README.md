@@ -3,18 +3,19 @@
 <table>
 <tr>
 <td width="800px">
-<h3>About Max & What I`m learning</h3>
-
+<br/>
+    
 - 👔 [RESUME](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog](https://maxkim-j.github.io/)    
 - 🚀 [RocketPunch Profile](https://www.rocketpunch.com/@hwaseen)
 - 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
 - 🏃🏻 [Max Kim Tutorial](https://github.com/max-kim-tutorial)
 
+<br/>
+
 </td>
 <td width="800px">
     <div align="center">
-        <br/>
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
     </div>
 </td>
