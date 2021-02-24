@@ -2,7 +2,9 @@
 
 <table>
 <tr>
-<td width="800px" height="250px">
+<td width="800px" height="260px">
+   
+### About Max & What I`m learning
    
 - 👔 [RESUME](https://github.com/MaxKim-J/RESUME)
 - 👨🏻‍🔧 [Tech Blog](https://maxkim-j.github.io/)    
@@ -13,9 +15,8 @@
 
 </td>
 <td width="800px">
-    <div align="center">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
-    </div>
+    <h3>BOJ solved.ac(PS)</h3>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
 </td>
 </tr>
 <table>
