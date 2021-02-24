@@ -16,7 +16,9 @@
 </td>
 <td width="800px">
    <div align="center">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
+      <a href="https://solved.ac/profile/hwaseen" target="_blank">
+         <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
+      </a>
    </div>
 </td>
 </tr>
