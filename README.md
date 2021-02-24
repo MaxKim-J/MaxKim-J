@@ -15,8 +15,9 @@
 
 </td>
 <td width="800px">
-    <h3>BOJ solved.ac(PS)</h3>
+   <div align="center">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
+   </div>
 </td>
 </tr>
 <table>
