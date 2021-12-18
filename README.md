@@ -13,6 +13,6 @@ Web Frontend Engineer who loves...
 [![blog](https://img.shields.io/badge/Tech_Blog-e8e8e8?style=for-the-badge&logo=Jekyll&logoColor=black)](https://maxkim-j.github.io/)
 [![Weekly Sessions](https://img.shields.io/badge/Weekly_Sessions-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/MaxKim-J/RESUME)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hwaseen)](https://solved.ac/hwaseen)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwaseen)](https://solved.ac/hwaseen)
 
