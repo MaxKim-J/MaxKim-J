@@ -1,41 +1,18 @@
-## 😎 Passionate Max
+# Jonghyuk Max Kim
 
-<table>
-<tr>
-<td width="800px" height="260px">
-   
-### About Max & What I`m learning
-   
-- 👔 [RESUME](https://github.com/MaxKim-J/RESUME)
-- 👨🏻‍🔧 [Tech Blog](https://maxkim-j.github.io/)    
-- 🚀 [RocketPunch Profile](https://www.rocketpunch.com/@hwaseen)
-- 🧐 [Today I Learned](https://github.com/MaxKim-J/TIL)
-- 🏃🏻 [Max Kim Tutorial](https://github.com/max-kim-tutorial)
-- 🏗 [Architecture](https://github.com/Arch)
+Web Frontend Engineer who loves...
 
-</td>
-<td width="800px">
-   <div align="center">
-      <a href="https://solved.ac/profile/hwaseen" target="_blank">
-         <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwaseen" alt="solvedac"/>
-      </a>
-   </div>
-</td>
-</tr>
-<table>
-    
+1. Providing great experience and convenience to user.
+2. Sharing tech skills with decent documents and sessions.
+3. Making stuffs!!
 
-<!--
-**MaxKim-J/MaxKim-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Click Badges!
 
-Here are some ideas to get you started:
+[![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![resume](https://img.shields.io/badge/RESUME-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxKim-J/RESUME)
+[![blog](https://img.shields.io/badge/Tech_Blog-e8e8e8?style=for-the-badge&logo=Jekyll&logoColor=black)](https://maxkim-j.github.io/)
+[![Weekly Sessions](https://img.shields.io/badge/Weekly_Sessions-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/MaxKim-J/RESUME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwaseen)](https://solved.ac/hwaseen)
+
