@@ -1,12 +1,6 @@
 # Jonghyuk Max Kim
 
-Web Frontend Engineer who loves...
-
-1. Providing great experience and convenience to user.
-2. Sharing tech skills with decent documents and sessions.
-3. Making stuffs!!
-
-## Click Badges!
+Maker. Do some stuffs that business wants.
 
 [![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![resume](https://img.shields.io/badge/RESUME-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxKim-J/RESUME)
